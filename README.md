@@ -50,7 +50,7 @@ From integrating **Stripe subscription billing** to designing **modular backends
 
 ---
 
-👉 [See all my repositories »](https://github.com/MRiDuL-ICE?tab=repositories)
+👉 [See all my repositories »](https://github.com/wahab-orangetoolz?tab=repositories)
 
 ---
 
