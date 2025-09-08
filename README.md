@@ -62,7 +62,7 @@ From integrating **Stripe subscription billing** to designing **modular backends
 ---
 
 ## 📊 GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MRiDuL-ICE&layout=compact&theme=algolia)  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MRiDuL-ICE&show_icons=true&theme=algolia)  
-[![GitHub Streak](https://streak-stats.demolab.com?user=MRiDuL-ICE&theme=algolia)](https://git.io/streak-stats)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wahab-orangetoolz&layout=compact&theme=algolia)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wahab-orangetoolz&show_icons=true&theme=algolia)  
+[![GitHub Streak](https://streak-stats.demolab.com?user=wahab-orangetoolz&theme=algolia)](https://git.io/streak-stats)  
 
